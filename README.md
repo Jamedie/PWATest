@@ -1,3 +1,3 @@
 # PWATest
 
-Short Description about the project.
+Follow tutorial from https://www.youtube.com/watch?v=pbSdAp8EmwI
